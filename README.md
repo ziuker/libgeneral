@@ -1,0 +1,2 @@
+# libgeneral
+General function library.
